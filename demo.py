@@ -1,5 +1,10 @@
 def my_function():
     a = 10
     b = 20
-    return d
+    password = "test@123"
+    return d + password
 (my_function)
+
+
+
+test()

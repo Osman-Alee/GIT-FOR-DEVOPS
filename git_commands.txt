@@ -4,3 +4,4 @@ git commit
 git restore
 git remote -v
 git remote set-url origin https://<personal_access_token>@github.com/<username>/<repo_name>.git
+new text added in master after a commit in rebase branch
